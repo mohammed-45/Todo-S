@@ -1,3 +1,6 @@
+# Live Preview: https://mohammed-45.github.io/Todo-S/
+![Screenshot 2023-08-30 054105](https://github.com/mohammed-45/Todo-S/assets/113661322/15393c61-820f-4b1e-9d27-1c7e198e54b0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
